@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 104" width="460" height="104" role="img" aria-label="AI semafor — Bez generativní AI">
+  <title>AI semafor — Bez generativní AI</title>
+  <rect width="460" height="104" rx="16" fill="#b3261e"/>
+  <rect x="14" y="14" width="76" height="76" rx="14" fill="#ffffff"/>
+  <path d="M77.4 62.5 62.5 77.4 41.5 77.4 26.6 62.5 26.6 41.5 41.5 26.6 62.5 26.6 77.4 41.5Z" fill="#b3261e"/>
+  <text x="52" y="52" text-anchor="middle" dominant-baseline="central" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="21.3" letter-spacing="0.5" fill="#ffffff">AI</text>
+  <text x="106" y="40" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="700" font-size="13" letter-spacing="3" fill="#ffffff" opacity="0.8">AI SEMAFOR</text>
+  <text x="106" y="76" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="24" letter-spacing="0.5" fill="#ffffff">BEZ GENERATIVNÍ AI</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Bez generativní AI">
+  <title>AI semafor — Bez generativní AI (osmiúhelník značky STOP)</title>
+  <path d="M88.6 64.8 64.8 88.6 31.2 88.6 7.4 64.8 7.4 31.2 31.2 7.4 64.8 7.4 88.6 31.2Z" fill="#b3261e"/>
+  <text x="48" y="48" text-anchor="middle" dominant-baseline="central" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="34" letter-spacing="0.5" fill="#ffffff">AI</text>
+</svg>

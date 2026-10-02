@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 104" width="460" height="104" role="img" aria-label="AI semafor — AI povolena">
+  <title>AI semafor — AI povolena</title>
+  <rect width="460" height="104" rx="16" fill="#137a45"/>
+  <rect x="14" y="14" width="76" height="76" rx="14" fill="#ffffff"/>
+  <circle cx="52" cy="52" r="28.75" fill="#137a45"/>
+  <text x="52" y="52" text-anchor="middle" dominant-baseline="central" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="23.8" letter-spacing="0.5" fill="#ffffff">AI</text>
+  <text x="106" y="40" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="700" font-size="13" letter-spacing="3" fill="#ffffff" opacity="0.8">AI SEMAFOR</text>
+  <text x="106" y="76" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="26" letter-spacing="0.5" fill="#ffffff">AI POVOLENA</text>
+</svg>

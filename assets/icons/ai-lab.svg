@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="AI Lab">
+  <title>AI semafor — AI Lab (informační čtverec)</title>
+  <rect x="8" y="8" width="80" height="80" rx="7" fill="#1a56b0"/>
+  <text x="48" y="48" text-anchor="middle" dominant-baseline="central" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="36" letter-spacing="0.5" fill="#ffffff">AI</text>
+</svg>

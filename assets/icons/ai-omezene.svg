@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="AI omezeně">
+  <title>AI semafor — AI omezeně (výstražný trojúhelník)</title>
+  <path d="M48 5 90 89 6 89Z" fill="#D98100"/>
+  <text x="48" y="61" text-anchor="middle" dominant-baseline="central" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="800" font-size="30" letter-spacing="0.5" fill="#ffffff">AI</text>
+</svg>
