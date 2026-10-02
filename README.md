@@ -1,6 +1,6 @@
 # AI semafor
 
-Web běží na **https://www.skolavdf.cz/hub/ai-semafor/**.
+Web běží na **https://www.skolavdf.cz/hub/ai-semafor/**. Zdrojový kód je v repozitáři [github.com/skolavdf-dev/ai-semafor](https://github.com/skolavdf-dev/ai-semafor).
 
 Statický web s pravidly používání umělé inteligence ve výuce na **VOŠ, SPŠ a SOŠ Varnsdorf**. Pro každý obor ukazuje čtyřúrovňový „semafor“, tedy kdy smí žák při úkolu, projektu nebo zkoušce použít AI a kdy má ukázat, co umí sám/sama.
 
